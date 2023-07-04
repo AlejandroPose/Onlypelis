@@ -1,0 +1,40 @@
+body {
+    color: #fff;
+}
+
+main {
+    background-color: rgb(48, 48, 48);
+}
+
+.content-peliculas {
+    margin-bottom: 50px;
+}
+
+.content-pelis {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.contenido-textos {
+    width: 48%;
+}
+
+.genero {
+    text-align: center;
+    color: rgb(255, 196, 129);
+}
+
+.titulo {
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+}
+
+p {
+    font-style: italic;
+}
+
